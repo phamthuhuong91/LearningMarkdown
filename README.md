@@ -1,6 +1,6 @@
-About me: always stay hungry, always stay foolish. It is always fun to learn something new!
+${\color{red}About \space me:}$ always stay hungry, always stay foolish. It is always fun to learn something new!
 
-This is [my GitHub page](https://github.com/phamthuhuong91).
+Welcome to [my GitHub page](https://github.com/phamthuhuong91)!
 
 # Lab 1: 
 
