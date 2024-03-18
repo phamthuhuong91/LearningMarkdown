@@ -3,12 +3,9 @@
 Welcome to [my GitHub page](https://github.com/phamthuhuong91)!
 
 # Lab 1 
-
-   ## What is a growth mindset?
-   
-A growth mindset is a belief that one can learn something new (skills, knowledge, etc) with persistent, right stratergies and practice. 
-
-  ## Ways that I use to develop a growth mindset
+<h2>What is a growth mindste</h2>
+A growth mindset is a belief that one can learn something new (skills, knowledge, etc) with persistent, right stratergies and practice.
+<h2>Ways that I use to develop a growth mindset</h2>
   
 * ***Learn something new***. It can be a new language, an instrument, hisotry or economics. I tried to learn couples different languages beside my native one, which is Vietnamese, and secondary one, which is English. The list is French, Spanish, Japanese, Korean and Chinese. Of course, I cannot learn all these languages but at least I am at intermediate level in Chinese now. 
 
@@ -23,3 +20,7 @@ A growth mindset is a belief that one can learn something new (skills, knowledge
   This is the line
   
 </details>
+
+## What is a growth mindset?
+   
+A growth mindset is a belief that one can learn something new (skills, knowledge, etc) with persistent, right stratergies and practice. 
