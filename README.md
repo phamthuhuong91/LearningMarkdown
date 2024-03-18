@@ -4,9 +4,6 @@ Welcome to [my GitHub page](https://github.com/phamthuhuong91)!
 
 # Lab 1 
 
-<details>
-  <summary>Click me</summary>
-
 ## What is a growth mindset?
 A growth mindset is a belief that one can learn something new (skills, knowledge, etc) with persistent, right stratergies and practice. 
 
@@ -16,4 +13,4 @@ A growth mindset is a belief that one can learn something new (skills, knowledge
 * ***Set a realistic goal***. Normally I often make a weekly, monthly and yearly goal. A smaller step is always easier to achieve.  
 
 * ***Mistakes are fine***. This is a part of the learning process. As long as, I learn something out of them.  
-</details>
+
