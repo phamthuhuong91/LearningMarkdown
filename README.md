@@ -5,7 +5,7 @@ Welcome to [my GitHub page](https://github.com/phamthuhuong91)!
 # Lab 1 
 <details>
   <summary>Click me</summary>
-  <h2>What is a growth mindste</h2>
+  <h2>What is a growth mindset</h2>
 A growth mindset is a belief that one can learn something new (skills, knowledge, etc) with persistent, right stratergies and practice.
   <h2>Ways that I use to develop a growth mindset</h2>
   <ul>
