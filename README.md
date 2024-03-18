@@ -12,6 +12,7 @@ A growth mindset is a belief that one can learn something new (skills, knowledge
 </details>
 
 
+
   ## Ways that I use to develop a growth mindset
 * ***Learn something new***. It can be a new language, an instrument, hisotry or economics. I tried to learn couples different languages beside my native one, which is Vietnamese, and secondary one, which is English. The list is French, Spanish, Japanese, Korean and Chinese. Of course, I cannot learn all these languages but at least I am at intermediate level in Chinese now. 
 
