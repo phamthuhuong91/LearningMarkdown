@@ -1,4 +1,4 @@
-*About me:* always stay hungry, always stay foolish. It is always fun to learn something new!
+<font color="red">*About me:*</font> always stay hungry, always stay foolish. It is always fun to learn something new!
 
 Welcome to [my GitHub page](https://github.com/phamthuhuong91)!
 
