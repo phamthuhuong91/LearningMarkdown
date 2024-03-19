@@ -16,11 +16,19 @@ In an application like Microsoft Word (a WYSIWYG- What You See Is What you Get- 
 
 - Markdown is everywhere. Websites like Reddit and GitHub support Markdown, and lots of desktop and web-based applications support it.
 
-### What symbol will create a heading in Markdown?
+### Markdown Syntax
+
+#### Heading
+What symbol will create a heading in Markdown?
 
 | Markdown | HTML | Rendered Output |
 |--|--|--|
-|<p># Heading level 1</p>|<pre><h1>Heading level 1</h1></pre>|<h1> Heading level 1</h1>|
+|# Heading level 1|<h1>Heading level 1</h1>|Heading level 1|
+|# Heading level 2|<h1>Heading level 2</h1>|Heading level 2|
+|# Heading level 3|<h1>Heading level 3</h1>|Heading level 3|
+|# Heading level 4|<h1>Heading level 4</h1>|Heading level 4|
+|# Heading level 5|<h1>Heading level 5</h1>|Heading level 5|
+|# Heading level 6|<h1>Heading level 6</h1>|Heading level 6|
 
 ### How many do you need to create the largest heading?
 
