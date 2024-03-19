@@ -20,6 +20,19 @@ In an application like Microsoft Word (a WYSIWYG- What You See Is What you Get- 
 
 #### Heading
 
+<table>
+  <tr>
+    <th>Markdown</th>
+    <th>HTML</th>
+    <th>Rendered Output</th>
+  </tr>
+  <tr>
+    <td><pre># Heading level 1</pre></td>
+    <td><pre><h1>Heading level 1</h1></pre></td>
+    <td><h1>Heading level 1</h1></td>
+  </tr>
+</table>
+
 | Markdown | HTML | Rendered Output |
 |--|--|--|
 |# Heading level 1|<h1>Heading level 1</h1>| # Heading level 1 |
