@@ -105,15 +105,36 @@ To italicize text, add one asterisk or underscore before and after a word or phr
    <tr>
     <td>&#9989</td>
     <td>Be the best of ****whatever**** you are</td>
-    <td>Be the best of <pre>&lt;em&gt;&lt;strong&gt;whatever&lt;strong&gt;&lt;/em&gt;</pre> you are</td>
+    <td>Be the best of <pre>&lt;em&gt;&lt;strong&gt;whatever&lt;/strong&gt;&lt;/em&gt;</pre> you are</td>
     <td>Be the best of <em><strong>whatever</strong></em> you are</td>
   </tr>
-  
+  <tr>
+    <td>&#9940</td>
+    <td>Be the best of ___whatever___ you are</td>
+    <td>Be the best of <pre>&lt;i&gt;&lt;b&gt;whatever&lt;/b&gt&lt;/i&gt;</pre> you are</td>
+    <td>Be the best of <i><b>whatever</b></i> you are</td>
+  </tr>
 </table>
-
 </details>
 
+<details>
+  <summary><strong>Link</strong></summary>
+  <br>   
+  To create a link, enclose the link text in brackets and then follow it immediately with the URL in parentheses.
+  
+  * ***Markdown***
+    <p>[My Github site](https://github.com/phamthuhuong91)</p>
 
-### How do you create a link with Markdown?
+  * ***HTML***
+    <pre>&lt;a&gt; href="https://github.com/phamthuhuong91">My Github site!&lt;/a&gt;</pre>
 
-### What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+  * ***Rendered Output***
+    <p><a href="https://github.com/phamthuhuong91">My Github site</a></p>
+  
+</details>
+    
+<details>
+  <summary><strong>Unordered List</strong></summary>
+  <br>
+  To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
+</details>  
