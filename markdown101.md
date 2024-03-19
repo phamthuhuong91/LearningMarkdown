@@ -31,6 +31,31 @@ In an application like Microsoft Word (a WYSIWYG- What You See Is What you Get- 
     <td><pre>&lt;h1&gt;Heading level 1&lt;/h1&gt;</pre></td>
     <td><h1>Heading level 1</h1></td>
   </tr>
+  <tr>
+    <td>## Heading level 2</td>
+    <td><pre>&lt;h2&gt;Heading level 2&lt;/h2&gt;</pre></td>
+    <td><h2>Heading level 2</h2></td>
+  </tr>
+  <tr>
+    <td>### Heading level 3</td>
+    <td><pre>&lt;h3&gt;Heading level 3&lt;/h3&gt;</pre></td>
+    <td><h3>Heading level 3</h3></td>
+  </tr>
+  <tr>
+    <td>#### Heading level 4</td>
+    <td><pre>&lt;h4&gt;Heading level 4&lt;/h4&gt;</pre></td>
+    <td><h4>Heading level 4</h4></td>
+  </tr>
+  <tr>
+    <td>##### Heading level 5</td>
+    <td><pre>&lt;h5&gt;Heading level 5&lt;/h5&gt;</pre></td>
+    <td><h5>Heading level 5</h5></td>
+  </tr>
+  <tr>
+    <td>###### Heading level 6</td>
+    <td><pre>&lt;h6&gt;Heading level 6&lt;/h6&gt;</pre></td>
+    <td><h6>Heading level 6</h6></td>
+  </tr>
 </table>
 
 | Markdown | HTML | Rendered Output |
