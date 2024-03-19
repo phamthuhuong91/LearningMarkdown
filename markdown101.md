@@ -19,20 +19,15 @@ In an application like Microsoft Word (a WYSIWYG- What You See Is What you Get- 
 ### Markdown Syntax
 
 #### Heading
-What symbol will create a heading in Markdown?
 
 | Markdown | HTML | Rendered Output |
 |--|--|--|
-|# Heading level 1|<h1>Heading level 1</h1>|Heading level 1|
-|# Heading level 2|<h1>Heading level 2</h1>|Heading level 2|
-|# Heading level 3|<h1>Heading level 3</h1>|Heading level 3|
-|# Heading level 4|<h1>Heading level 4</h1>|Heading level 4|
-|# Heading level 5|<h1>Heading level 5</h1>|Heading level 5|
-|# Heading level 6|<h1>Heading level 6</h1>|Heading level 6|
-
-### How many do you need to create the largest heading?
-
-### How many do you need to create the smallest heading?
+|# Heading level 1|<h1>Heading level 1</h1>| # Heading level 1 |
+|# Heading level 2|<h1>Heading level 2</h1>| # Heading level 2 |
+|# Heading level 3|<h1>Heading level 3</h1>| # Heading level 3 |
+|# Heading level 4|<h1>Heading level 4</h1>| # Heading level 4 |
+|# Heading level 5|<h1>Heading level 5</h1>| # Heading level 5 |
+|# Heading level 6|<h1>Heading level 6</h1>| # Heading level 6 |
 
 ### When making text bold or italicized for emphasis, it is best practice to use which symbol?
 
