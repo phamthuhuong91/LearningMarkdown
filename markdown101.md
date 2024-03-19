@@ -129,9 +129,8 @@ To create a heading, add number signs (#) in front of a word or phrase. The numb
 
 <p><strong><em>Rendered Output</em></strong></p>
     <p><a href="https://github.com/phamthuhuong91">My Github site</a></p>
-  
 </details>
-    
+<br>
 <details>
   <summary><strong>Unordered List</strong></summary>
   <br>
