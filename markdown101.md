@@ -17,6 +17,7 @@ In an application like Microsoft Word (a WYSIWYG- What You See Is What you Get- 
 - Markdown is everywhere. Websites like Reddit and GitHub support Markdown, and lots of desktop and web-based applications support it.
 
 ## Markdown Syntax
+
 <details>
   <summary><strong>Heading</strong></summary>
   <br> 
@@ -62,7 +63,56 @@ To create a heading, add number signs (#) in front of a word or phrase. The numb
 
 </details>
 
-### When making text bold or italicized for emphasis, it is best practice to use which symbol?
+<details>
+  <summary><strong>Bold and Italic</strong></summary>
+  <br> 
+  
+To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters.
+
+To italicize text, add one asterisk or underscore before and after a word or phrase. To italicize the middle of a word for emphasis, add one asterisk without spaces around the letters.
+
+<table>
+  <tr>
+    <th>Best Practice?</th>
+    <th>Markdown</th>
+    <th>HTML</th>
+    <th>Rendered Output</th>
+  </tr>
+  <tr>
+    <td>&#9989</td>
+    <td>Be the best of **whatever** you are</td>
+    <td>Be the best of <pre>&lt;strong&gt;whatever&lt;/strong&gt;</pre> you are</td>
+    <td>Be the best of <strong>whatever</strong> you are</td>
+  </tr>
+  <tr>
+    <td>&#9940</td>
+    <td>Be the best of __whatever__ you are</td>
+    <td>Be the best of <pre>&lt;b&gt;whatever&lt;/b&gt;</pre> you are</td>
+    <td>Be the best of <b>whatever</b> you are</td>
+  </tr>
+   <tr>
+    <td>&#9989</td>
+    <td>Be the best of *whatever* you are</td>
+    <td>Be the best of <pre>&lt;em&gt;whatever&lt;/em&gt;</pre> you are</td>
+    <td>Be the best of <em>whatever</em> you are</td>
+  </tr>
+  <tr>
+    <td>&#9940</td>
+    <td>Be the best of _whatever_ you are</td>
+    <td>Be the best of <pre>&lt;i&gt;whatever&lt;/i&gt;</pre> you are</td>
+    <td>Be the best of <i>whatever</i> you are</td>
+  </tr>
+   <tr>
+    <td>&#9989</td>
+    <td>Be the best of ****whatever**** you are</td>
+    <td>Be the best of <pre>&lt;em&gt;&lt;strong&gt;whatever&lt;strong&gt;&lt;/em&gt;</pre> you are</td>
+    <td>Be the best of <em><strong>whatever</strong></em> you are</td>
+  </tr>
+  
+</table>
+
+</details>
+
 
 ### How do you create a link with Markdown?
 
