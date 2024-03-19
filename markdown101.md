@@ -1,10 +1,10 @@
-### What is Markdown?
+## What is Markdown?
 
 It is a lightweight markup language used for formatting plaintext documents. 
 
 In an application like Microsoft Word (a WYSIWYG- What You See Is What you Get- editor), you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
 
-### Why do we use Markdown?
+## Why do we use Markdown?
 
 - Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages, and technical documentation.
 
@@ -16,9 +16,11 @@ In an application like Microsoft Word (a WYSIWYG- What You See Is What you Get- 
 
 - Markdown is everywhere. Websites like Reddit and GitHub support Markdown, and lots of desktop and web-based applications support it.
 
-### Markdown Syntax
-
-#### Heading
+## Markdown Syntax
+<details>
+  <summary><strong>Heading</strong></summary>
+  <br> 
+To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level two <pre>&lt;h2&gt;</pre>, or use two number signs <pre>## My Header</pre>
 
 <table>
   <tr>
@@ -58,14 +60,7 @@ In an application like Microsoft Word (a WYSIWYG- What You See Is What you Get- 
   </tr>
 </table>
 
-| Markdown | HTML | Rendered Output |
-|--|--|--|
-|# Heading level 1|<h1>Heading level 1</h1>| # Heading level 1 |
-|# Heading level 2|<h1>Heading level 2</h1>| # Heading level 2 |
-|# Heading level 3|<h1>Heading level 3</h1>| # Heading level 3 |
-|# Heading level 4|<h1>Heading level 4</h1>| # Heading level 4 |
-|# Heading level 5|<h1>Heading level 5</h1>| # Heading level 5 |
-|# Heading level 6|<h1>Heading level 6</h1>| # Heading level 6 |
+</details>
 
 ### When making text bold or italicized for emphasis, it is best practice to use which symbol?
 
