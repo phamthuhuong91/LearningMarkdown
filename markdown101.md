@@ -67,9 +67,9 @@ To create a heading, add number signs (#) in front of a word or phrase. The numb
   <summary><strong>Bold and Italic</strong></summary>
   <br> 
   
-To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters.
+<p>To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters.</p>
 
-To italicize text, add one asterisk or underscore before and after a word or phrase. To italicize the middle of a word for emphasis, add one asterisk without spaces around the letters.
+<p>To italicize text, add one asterisk or underscore before and after a word or phrase. To italicize the middle of a word for emphasis, add one asterisk without spaces around the letters.</p>
 
 <table>
   <tr>
@@ -79,7 +79,7 @@ To italicize text, add one asterisk or underscore before and after a word or phr
     <th>Rendered Output</th>
   </tr>
   <tr>
-    <td>&#9989</td>
+    <td>&#9989;</td>
     <td>Be the best of **whatever** you are</td>
     <td>Be the best of <pre>&lt;strong&gt;whatever&lt;/strong&gt;</pre> you are</td>
     <td>Be the best of <strong>whatever</strong> you are</td>
@@ -120,15 +120,15 @@ To italicize text, add one asterisk or underscore before and after a word or phr
 <details>
   <summary><strong>Link</strong></summary>
   <br>   
-  To create a link, enclose the link text in brackets and then follow it immediately with the URL in parentheses.
+  <p>To create a link, enclose the link text in brackets and then follow it immediately with the URL in parentheses.</p>
   
-  * ***Markdown***
+<p><strong><em>Markdown</em></strong></p>
     <p>[My Github site](https://github.com/phamthuhuong91)</p>
 
-  * ***HTML***
+<p><strong><em>HTML</em></strong></p>
     <pre>&lt;a&gt; href="https://github.com/phamthuhuong91">My Github site!&lt;/a&gt;</pre>
 
-  * ***Rendered Output***
+<p><strong><em>Rendered Output</em></strong></p>
     <p><a href="https://github.com/phamthuhuong91">My Github site</a></p>
   
 </details>
