@@ -108,7 +108,7 @@ To create a heading, add number signs (#) in front of a word or phrase. The numb
     <td>Be the best of <em><strong>whatever</strong></em> you are</td>
   </tr>
   <tr>
-    <td>&#9940;/td>
+    <td>&#9940;</td>
     <td>Be the best of ___whatever___ you are</td>
     <td>Be the best of <pre>&lt;i&gt;&lt;b&gt;whatever&lt;/b&gt&lt;/i&gt;</pre> you are</td>
     <td>Be the best of <i><b>whatever</b></i> you are</td>
@@ -116,6 +116,7 @@ To create a heading, add number signs (#) in front of a word or phrase. The numb
 </table>
 </details>
 <br>
+
 <details>
   <summary><strong>Link</strong></summary>
   <br>   
@@ -131,6 +132,7 @@ To create a heading, add number signs (#) in front of a word or phrase. The numb
     <p><a href="https://github.com/phamthuhuong91">My Github site</a></p>
 </details>
 <br>
+
 <details>
   <summary><strong>Unordered List</strong></summary>
   <br>
