@@ -60,9 +60,8 @@ To create a heading, add number signs (#) in front of a word or phrase. The numb
     <td><h6>Heading level 6</h6></td>
   </tr>
 </table>
-
 </details>
-
+<br>
 <details>
   <summary><strong>Bold and Italic</strong></summary>
   <br> 
@@ -85,38 +84,38 @@ To create a heading, add number signs (#) in front of a word or phrase. The numb
     <td>Be the best of <strong>whatever</strong> you are</td>
   </tr>
   <tr>
-    <td>&#9940</td>
+    <td>&#9940;</td>
     <td>Be the best of __whatever__ you are</td>
     <td>Be the best of <pre>&lt;b&gt;whatever&lt;/b&gt;</pre> you are</td>
     <td>Be the best of <b>whatever</b> you are</td>
   </tr>
    <tr>
-    <td>&#9989</td>
+    <td>&#9989;</td>
     <td>Be the best of *whatever* you are</td>
     <td>Be the best of <pre>&lt;em&gt;whatever&lt;/em&gt;</pre> you are</td>
     <td>Be the best of <em>whatever</em> you are</td>
   </tr>
   <tr>
-    <td>&#9940</td>
+    <td>&#9940;</td>
     <td>Be the best of _whatever_ you are</td>
     <td>Be the best of <pre>&lt;i&gt;whatever&lt;/i&gt;</pre> you are</td>
     <td>Be the best of <i>whatever</i> you are</td>
   </tr>
    <tr>
-    <td>&#9989</td>
+    <td>&#9989;</td>
     <td>Be the best of ****whatever**** you are</td>
     <td>Be the best of <pre>&lt;em&gt;&lt;strong&gt;whatever&lt;/strong&gt;&lt;/em&gt;</pre> you are</td>
     <td>Be the best of <em><strong>whatever</strong></em> you are</td>
   </tr>
   <tr>
-    <td>&#9940</td>
+    <td>&#9940;/td>
     <td>Be the best of ___whatever___ you are</td>
     <td>Be the best of <pre>&lt;i&gt;&lt;b&gt;whatever&lt;/b&gt&lt;/i&gt;</pre> you are</td>
     <td>Be the best of <i><b>whatever</b></i> you are</td>
   </tr>
 </table>
 </details>
-
+<br>
 <details>
   <summary><strong>Link</strong></summary>
   <br>   
