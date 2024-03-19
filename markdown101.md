@@ -28,7 +28,7 @@ In an application like Microsoft Word (a WYSIWYG- What You See Is What you Get- 
   </tr>
   <tr>
     <td><pre># Heading level 1</pre></td>
-    <td><pre><h1>Heading level 1</h1></pre></td>
+    <td><plaintext><h1>Heading level 1</h1></plaintext></td>
     <td><h1>Heading level 1</h1></td>
   </tr>
 </table>
