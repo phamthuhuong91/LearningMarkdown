@@ -27,8 +27,8 @@ In an application like Microsoft Word (a WYSIWYG- What You See Is What you Get- 
     <th>Rendered Output</th>
   </tr>
   <tr>
-    <td><pre># Heading level 1</pre></td>
-    <td><plaintext><h1>Heading level 1</h1></plaintext></td>
+    <td># Heading level 1</td>
+    <td><<h1>Heading level 1</h1>></td>
     <td><h1>Heading level 1</h1></td>
   </tr>
 </table>
