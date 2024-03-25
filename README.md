@@ -2,16 +2,38 @@
 
 Welcome to [my GitHub page](https://github.com/phamthuhuong91)!
 
-# Lab 1 
-<details>
-  <summary>Click me</summary>
-  <h2>What is a growth mindset</h2>
-A growth mindset is a belief that one can learn something new (skills, knowledge, etc) with persistent, right stratergies and practice.
-  <h2>Ways that I use to develop a growth mindset</h2>
-  <ul>
-  <li><b><i>Learn something new</i></b> It can be a new language, an instrument, hisotry or economics. I tried to learn couples different languages beside my native one, which is Vietnamese, and secondary one, which is English. The list is French, Spanish, Japanese, Korean and Chinese. Of course, I cannot learn all these languages but at least I am at intermediate level in Chinese now.</li>
-  <li><b><i>Set a realistic goal</i></b> Normally I often make a weekly, monthly and yearly goal. A smaller step is always easier to achieve.</li>
-  <li><b><i>Mistakes are fine</i></b> This is a part of the learning process. As long as, I learn something along the way.</li>
-  </ul>
-</details>
+This website is my notebook in the Software Development course.
+
+# Table of Contents
+
+- Code 102 Reading Notes
+  - [Lab 1](https://phamthuhuong91.github.io/reading-notes/lab1)
+  - [Lab 2](https://phamthuhuong91.github.io/reading-notes/lab2)
+  - [Lab 3](https://phamthuhuong91.github.io/reading-notes/lab3)
+  - [Lab 4](https://phamthuhuong91.github.io/reading-notes/lab4)
+  - [Lab 5](https://phamthuhuong91.github.io/reading-notes/lab5)
+  - [Lab 6](https://phamthuhuong91.github.io/reading-notes/lab6)
+  - [Lab 7](https://phamthuhuong91.github.io/reading-notes/lab7)
+  - [Lab 8](https://phamthuhuong91.github.io/reading-notes/lab8)
+
+- Code 201 Reading Notes
+  - [Lab 01](https://phamthuhuong91.github.io/reading-notes/lab01)
+  - [Lab 02](https://phamthuhuong91.github.io/reading-notes/lab02)
+  - [Lab 03](https://phamthuhuong91.github.io/reading-notes/lab03)
+  - [Lab 04](https://phamthuhuong91.github.io/reading-notes/lab04)
+  - [Lab 05](https://phamthuhuong91.github.io/reading-notes/lab05)
+  - [Lab 06](https://phamthuhuong91.github.io/reading-notes/lab06)
+  - [Lab 07](https://phamthuhuong91.github.io/reading-notes/lab07)
+  - [Lab 08](https://phamthuhuong91.github.io/reading-notes/lab08)
+  - [Lab 09](https://phamthuhuong91.github.io/reading-notes/lab09)
+  - [Lab 10](https://phamthuhuong91.github.io/reading-notes/lab10)
+  - [Lab 11](https://phamthuhuong91.github.io/reading-notes/lab11)
+  - [Lab 12](https://phamthuhuong91.github.io/reading-notes/lab12)
+  - [Lab 13](https://phamthuhuong91.github.io/reading-notes/lab13)
+  - [Lab 14](https://phamthuhuong91.github.io/reading-notes/lab14)
+  - [Lab 15](https://phamthuhuong91.github.io/reading-notes/lab15)
+
+
+
+
 
