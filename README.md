@@ -7,10 +7,10 @@ This website is my notebook in the Software Development course.
 # Table of Contents
 
 - Code 102 Reading Notes
-  - [Lab 1](https://phamthuhuong91.github.io/reading-notes/lab1)
-  - [Lab 2](https://phamthuhuong91.github.io/reading-notes/lab2)
-  - [Lab 3](https://phamthuhuong91.github.io/reading-notes/lab3)
-  - [Lab 4](https://phamthuhuong91.github.io/reading-notes/lab4)
+  - [Lab 1 - Markdown](https://phamthuhuong91.github.io/reading-notes/lab1)
+  - [Lab 2 - Git](https://phamthuhuong91.github.io/reading-notes/lab2)
+  - [Lab 3 - VS Code](https://phamthuhuong91.github.io/reading-notes/lab3)
+  - [Lab 4 - HTML](https://phamthuhuong91.github.io/reading-notes/lab4)
   - [Lab 5](https://phamthuhuong91.github.io/reading-notes/lab5)
   - [Lab 6](https://phamthuhuong91.github.io/reading-notes/lab6)
   - [Lab 7](https://phamthuhuong91.github.io/reading-notes/lab7)
