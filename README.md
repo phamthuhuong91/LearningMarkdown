@@ -11,7 +11,7 @@ This website is my notebook in the Software Development course.
   - [Lab 2 - Git](https://phamthuhuong91.github.io/reading-notes/102/lab2)
   - [Lab 3 - VS Code](https://phamthuhuong91.github.io/reading-notes/102/lab3)
   - [Lab 4 - HTML](https://phamthuhuong91.github.io/reading-notes/102/lab4)
-  - [Lab 5](https://phamthuhuong91.github.io/reading-notes/102/lab5)
+  - [Lab 5 - CSS](https://phamthuhuong91.github.io/reading-notes/102/lab5)
   - [Lab 6](https://phamthuhuong91.github.io/reading-notes/102/lab6)
   - [Lab 7](https://phamthuhuong91.github.io/reading-notes/102/lab7)
   - [Lab 8](https://phamthuhuong91.github.io/reading-notes/102/lab8)
