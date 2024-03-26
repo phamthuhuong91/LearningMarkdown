@@ -4,7 +4,7 @@ CSS stands for Cascading Style Sheets, which allows one to create great-looking 
 
 # What are the three ways to insert CSS into your project?
 
-- External stylesheet: use a seperate file with a .css extension to store the document's style and layout. The HTML &lt;a&gt;; element is used for reference an external CSS stylesheet. This practice is used for site with multiple pages.
+- External stylesheet: use a separate file with a .css extension to store the document's style and layout. The HTML &lt;a&gt;; element is used for reference an external CSS stylesheet. This practice is used for site with multiple pages.
 
 - Internal stylesheet: it resides within an HTML document, using a &lt;style&gt; element contained inside the HTML &lt;head&gt;.
 
