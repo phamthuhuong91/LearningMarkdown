@@ -13,7 +13,7 @@ This website is my notebook in the Software Development course.
   - [Lab 4 - HTML](https://phamthuhuong91.github.io/reading-notes/102/lab4)
   - [Lab 5 - CSS](https://phamthuhuong91.github.io/reading-notes/102/lab5)
   - [Lab 6 - JavaScript](https://phamthuhuong91.github.io/reading-notes/102/lab6)
-  - [Lab 7](https://phamthuhuong91.github.io/reading-notes/102/lab7)
+  - [Lab 7 - JavaScript Programming](https://phamthuhuong91.github.io/reading-notes/102/lab7)
   - [Lab 8](https://phamthuhuong91.github.io/reading-notes/102/lab8)
 
 - Code 201 Reading Notes
