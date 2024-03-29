@@ -12,4 +12,4 @@ A for loop stop executing when the value of condition is false.
 
 # How many times will a while loop execute?
 
-unknown. The while loop executes its statement as long as a specificed condition eveluates to true.A for 
+Unknown. The while loop executes its statement as long as a specificed condition eveluates to true.
