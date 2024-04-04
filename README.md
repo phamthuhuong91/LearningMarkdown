@@ -6,7 +6,7 @@ This website is my notebook in the Software Development course.
 
 # Table of Contents
 
-- Code 102 Reading Notes
+## Code 102 - Intro to Software Development
   - [Lab 1 - Markdown](https://phamthuhuong91.github.io/reading-notes/102/lab1)
   - [Lab 2 - Git](https://phamthuhuong91.github.io/reading-notes/102/lab2)
   - [Lab 3 - VS Code](https://phamthuhuong91.github.io/reading-notes/102/lab3)
@@ -16,7 +16,7 @@ This website is my notebook in the Software Development course.
   - [Lab 7 - JavaScript Programming](https://phamthuhuong91.github.io/reading-notes/102/lab7)
   - [Lab 8 - Operators and Loops](https://phamthuhuong91.github.io/reading-notes/102/lab8)
 
-- Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
   - [Lab 01](https://phamthuhuong91.github.io/reading-notes/201/lab01)
   - [Lab 02](https://phamthuhuong91.github.io/reading-notes/201/lab02)
   - [Lab 03](https://phamthuhuong91.github.io/reading-notes/201/lab03)
@@ -33,7 +33,9 @@ This website is my notebook in the Software Development course.
   - [Lab 14](https://phamthuhuong91.github.io/reading-notes/201/lab14)
   - [Lab 15](https://phamthuhuong91.github.io/reading-notes/201/lab15)
 
+## Code 301 - Intermediate Software Development
 
+## Code 401 - Advanced Software Development
 
 
 
