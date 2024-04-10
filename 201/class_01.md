@@ -86,21 +86,23 @@ Many &lt;meta&gt; elements include content attribute, which specifies the actual
 
 ### How to start to design a Website.
 
-1. What is the first step to designing a Website?
+#### What is the first step to designing a Website?
 
 Set tup the goals and visions for the website.
 
-2. What is the most important question to answer when designing a Website?
+#### What is the most important question to answer when designing a Website?
 
-What exactly do you want to accomplish? 
+ - What exactly do you want to accomplish?
+ - How the website can assist you to accomplish your goal?
+ - How it can be done? What is the layout needed to be?  
 
 ### Semantics
 
-1. Why should you use an &lt;h1&gt; element over a &lt;span&gt; element to display a top level heading?
+#### Why should you use an &lt;h1&gt; element over a &lt;span&gt; element to display a top level heading?
 
 The &lt;span&gt; tag is an inline container used to mark up a part of a text or part of the document. While the &lt;h1&gt; defines the most important heading, which represents the main heading/subject for the whole page.
 
-2. What are the benefits of using semantic tags in our HTML?
+#### What are the benefits of using semantic tags in our HTML?
 
 Some of benefits from writing semantic markup:
 
@@ -115,7 +117,6 @@ Some of benefits from writing semantic markup:
 1. Describe 2 things that require JavaScript in the Browser?
 - The line that display the date and time.
 - Popup window
-
 2. How can you add JavaScript to an HTML document?
 
 ***Internal JavaScript***: JavaScript code is inserted between &lt;script&gt; and &lt;/script&gt; tags. 
