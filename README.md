@@ -31,7 +31,7 @@ This website is my notebook in the Software Development course.
   - [Class 12](https://phamthuhuong91.github.io/reading-notes/201/class_12)
   - [Class 13](https://phamthuhuong91.github.io/reading-notes/201/class_13)
   - [Class 14](https://phamthuhuong91.github.io/reading-notes/201/class_14)
-  - [Class 15](https://phamthuhuong91.github.io/reading-notes/201/class_15)
+  - [Class 14 - Extra](https://phamthuhuong91.github.io/reading-notes/201/class_14_extra)
 
 ## Code 301 - Intermediate Software Development
 
